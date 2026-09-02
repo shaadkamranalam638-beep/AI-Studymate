@@ -5,6 +5,5 @@ AI StudyMate helps students learn more effectively through personalized study-pl
 Currently under development as an MVP for the HORIZON HACKATHON-AI with Education.
 # Goal 
 To make learning more personalized, accessible, and effective for students.
-# Requirement
-To be consistent and committed.
+
 
